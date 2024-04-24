@@ -1,7 +1,7 @@
 
 <h1 align="center">  Olá, Eu sou o Gabriel Sousa 👋</h1>
 
-<h3 align="center">Desenvolvedor apaixonado por tecnologia 👨🏽‍💻</h3>
+<h3 align="center">Desenvolvedor Software 👨🏽‍💻</h3>
 
 <h5 align="center"> 💻 Sou um desenvolvedor apaixonado por tecnologia, com experiência em Flutter e GoLang.</h5></br>
 <h5 align="center"> 🚀 Minha jornada no mundo da programação é marcada pelo constante aprendizado, aprimorar minhas habilidades em desenvolvimento de software e busca por soluções inovadoras. 🌎 </h5>
